@@ -1,0 +1,13 @@
+.product-a s{
+    color: red;
+    margin-left: 5px;
+}
+.product-img{
+    margin-top: 30px;
+}
+/* @media only screen and (max-width: 500px){
+    .product-watch{
+        
+    }
+    .col-xs-12{width:100%}
+} */
